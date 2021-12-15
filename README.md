@@ -17,4 +17,4 @@ The Data Set is comprises of 3 Tables:
 a) First I understood the data which was available to me then I did data preparation. For example convereted date in valid date formats.<br/>
 b) Then I performed Data Analysis like "What is the net total revenue generated in categories Electronics and Books?",
 "What is the combined revenue earned from the "Electronics" & "Clothing" categories,from "Flagship stores"?",.... so on, in total I performed 15 tasks.<br/>
-c)To perform these tasks I have written SQL Query.,.From which city do we have the maximum number of customers and how many
+c) To perform these tasks I have written SQL Query.,.From which city do we have the maximum number of customers and how many
